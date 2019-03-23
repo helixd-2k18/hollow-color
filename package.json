@@ -1,0 +1,19 @@
+{
+  "name": "hollow-color",
+  "version": "1.0.0",
+  "description": "Fast color conversion library",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "hcg",
+    "hwb",
+    "hsl",
+    "hsi",
+    "hsv",
+    "rgb"
+  ],
+  "author": "helixd",
+  "license": "MIT"
+}
